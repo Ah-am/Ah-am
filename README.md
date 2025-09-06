@@ -50,6 +50,18 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Static Badge](https://img.shields.io/badge/python-024e92?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-fd7c00?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/jupyter%20notebook-orange?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/scipy-blue?style=for-the-badge&logo=scipy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/postgresql-1b344b?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+
 
 
 ---
