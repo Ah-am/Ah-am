@@ -57,6 +57,11 @@
 ![Static Badge](https://img.shields.io/badge/jupyter%20notebook-orange?style=for-the-badge&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/scipy-blue?style=for-the-badge&logo=scipy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/postgresql-1b344b?style=for-the-badge&logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Static Badge](https://img.shields.io/badge/opencv-009900?style=for-the-badge&logo=opencv&logoColor=white)
+![Static Badge](https://img.shields.io/badge/pytorch-ed5f00?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
 
 
 
