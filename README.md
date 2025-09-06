@@ -1,12 +1,12 @@
 <!-- Banner / Header -->
 
- <h1 align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6F61&center=true&vCenter=true&width=700&lines=नमस्कार!;নমস্কার!;ನಮಸ್ಕಾರ!;నమస్కారం!;நமஸ்காரம்!;നമസ്കാരം!;નમસ્કાર!;ਨਮਸਕਾਰ!;Hello!;こんにちは!;안녕하세요!;你好!;Hola!;Bonjour!;Olá!" alt="Greetings in multiple languages" />
-</h1>
+ </p>
 
-  <h2 align="center">
+  <h1 align="center">
   👋 Hey, I’m Pandit Aman
-</h2>
+</h1>
 
 
 ## 🚀 About Me  
@@ -19,8 +19,6 @@
 ---
 
 ## 🏆 Featured Projects  
-
-📌 Explore my full showcase → [**All My Projects**](https://github.com/Ah-am/all-my-projects)  
 
 <table>
   <tr>
@@ -39,6 +37,8 @@
     <td><b>Python · TensorFlow · FastAPI</b></td>
   </tr>
 </table>
+
+📌 Explore my full showcase → [**All My Projects**](https://github.com/Ah-am/all-my-projects)
 
 ---
 
