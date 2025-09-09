@@ -10,6 +10,7 @@
 
 
 ## 🚀 About Me  
+**`Digital Craftsman (Developer/Innovatorr/CodeWave)`**
 
 ✨ Full-stack engineer building **scalable & impactful applications**  
 ☁️ Passionate about **AI, cloud, and automation**  
