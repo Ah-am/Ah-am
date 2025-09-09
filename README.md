@@ -37,6 +37,7 @@
     <td><b>Python · TensorFlow · FastAPI</b></td>
   </tr>
 </table>
+📌 Explore my full showcase → <a href="https://github.com/Ah-am/all-my-projects" target="_blank" rel="noopener noreferrer"><strong>All My Projects</strong></a>
 
 📌 Explore my full showcase → [**All My Projects**](https://github.com/Ah-am/all-my-projects)
 
