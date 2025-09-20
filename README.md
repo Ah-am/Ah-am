@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-📌 Explore my full showcase → [**All My Projects**](https://github.com/Ah-am/all-my-projects)
+[**📌: Explore my full showcase**](https://github.com/Ah-am/all-my-projects)
 
 ---
 ## 🧰: Tech Stack
