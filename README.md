@@ -94,4 +94,4 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/it-works-dont-ask-me-how.svg)](https://forthebadge.com)
 
-✨ *Thanks for stopping by! Always open to collaboration, freelance opportunities, and exciting projects.*  
+✨ *Thanks for stopping by! I am always receptive to engaging in new ventures, exploring fresh opportunities, and driving forward-thinking and meaningful initiatives.*  
