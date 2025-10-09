@@ -41,7 +41,7 @@
 </table>
 
 [**📌: Explore my full showcase**](https://github.com/Ah-am/all-my-projects)
-<a href="https://github.com/Ah-am/all-my-projects" target="blank" rel="noopener noreferrer">**📌: Explore my full showcase**</a>
+
 ---
 ## 🧰: Tech Stack
 
