@@ -93,5 +93,8 @@
 
 
 [![forthebadge](https://forthebadge.com/images/badges/it-works-dont-ask-me-how.svg)](https://forthebadge.com)
+---
+<img width="1024" height="1536" alt="dev" src="https://github.com/user-attachments/assets/b2399b09-aaa6-491a-874d-4d380864e302" />
 
+---
 ✨ *Thanks for stopping by! I am always receptive to engaging in new ventures, exploring fresh opportunities, and driving forward-thinking and meaningful initiatives.*  
