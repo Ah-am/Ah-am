@@ -10,7 +10,7 @@
 
 
 ## 🚀 About Me  
-**`Digital Craftsman (Developer/Innovatorr/CodeWave)`**
+**`Digital Artisan (Developer/Innovatorr/CodeWave)`**
 
 ✨ Focused on **developing scalable and impactful solutions**  
 ☁️ Passionate about **AI, cloud, and automation**  
@@ -29,14 +29,9 @@
     <td><b>React · Node.js · MongoDB</b></td>
   </tr>
   <tr>
-    <td align="center">🌐 <b>[Project 2]</b></td>
-    <td>Scalable web platform with <i>clean UI/UX</i></td>
-    <td><b>Next.js · Tailwind · PostgreSQL</b></td>
-  </tr>
-  <tr>
-    <td align="center">🤖 <b>[Project 3]</b></td>
-    <td>Automation / AI-driven <i>smart solution</i></td>
-    <td><b>Python · TensorFlow · FastAPI</b></td>
+    <td align="center">🌐 <b>Natural Query Interface</b></td>
+    <td>Democratized enterprise data access by building a natural language–to–SQL agent using Python, Streamlit, and PostgreSQL to deliver governed, audit-ready, secure data access. <i>simple UI.</i></td>
+    <td><b>Python • Postgres • Pandsa • Llama 3 Ollama • Streamlit</b></td>
   </tr>
 </table>
 
