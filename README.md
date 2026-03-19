@@ -13,7 +13,7 @@
 **`Digital Artisan (Developer/Innovatorr/CodeWave)`**
 
 ✨ Focused on **developing scalable and impactful solutions**  
-☁️ Passionate about **AI, cloud, and automation**  
+☁️ Passionate about **ML, cloud, and automation**  
 📚 Always exploring **new technologies & improving workflows**  
 🌍 Experienced in **cross-functional teamwork and designing scalable, efficient solutions**
 
