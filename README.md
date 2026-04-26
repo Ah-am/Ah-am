@@ -18,47 +18,28 @@
 🌍 Experienced in **cross-functional teamwork and designing scalable, efficient solutions**
 
 
-
----
-## 🏆 Featured Projects  
-
-<table>
-  <tr>
-    <td align="center">⚡ <b>[Project 1]</b></td>
-    <td>High-performance app solving <i>[X problem]</i></td>
-    <td><b>React · Node.js · MongoDB</b></td>
-  </tr>
-  <tr>
-  <td align="center">🌐 <b><a href="https://github.com/Ah-am/all-my-projects">Natural Query Interface</a></b></td>
-<td>Democratized enterprise data access by building a natural language–to–SQL agent using Python, Streamlit, and PostgreSQL to deliver governed, audit-ready, secure data access. <i>simple UI.</i></td>
-<td><b>Python • Postgres • Pandas • Llama 3 Ollama • Streamlit</b></td>
-  </tr>
-</table>
-
-[**📌: Explore my full showcase**](https://github.com/Ah-am/all-my-projects)
-
 ---
 ## 🧰: Tech Stack
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/fb11d6ca-2789-4489-8d0f-e9263a9699be" width="64" />
+  <img src="https://github.com/user-attachments/assets/a6ab29b2-ccd4-4de7-bc7f-5fd35bbe88cd" width="64" />
+  <img src="https://github.com/user-attachments/assets/154e7d47-78d2-4b0b-93ca-6e1ecdb059ce" width="64" />
+  <img src="https://github.com/user-attachments/assets/68d5c1e9-e819-4c4c-b39a-2d3ebfd543c6" width="64" />
+  <img src="https://github.com/user-attachments/assets/101cf1b8-d8bf-4a16-8db5-d274d22a0f04" width="64" />
+  <img src="https://github.com/user-attachments/assets/d75f120d-36d0-4431-9b1f-7595ed55a2f1" width="64" />
+  <img src="https://github.com/user-attachments/assets/df71e9b7-fa9b-4460-b91e-72aa633956d7" width="64" />
+  <img src="https://github.com/user-attachments/assets/157c9254-8c6b-448a-a3c2-8a8e96aba221" width="64" />
+  <img src="https://github.com/user-attachments/assets/b8a1aa8f-b575-42c8-a48e-154e32d09dc2" width="64" />
+  <img src="https://github.com/user-attachments/assets/f2da5289-c715-4232-b2dc-3c8fc471b47a" width="64" />
+  <img src="https://github.com/user-attachments/assets/42a9f226-04e4-4e60-8047-54e7eee1e148" width="64" />
+  <img src="https://github.com/user-attachments/assets/9618b924-0454-40b4-8895-dab8a97e6ae4" width="64" />
+</p>
 
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/fb11d6ca-2789-4489-8d0f-e9263a9699be" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/a6ab29b2-ccd4-4de7-bc7f-5fd35bbe88cd" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/154e7d47-78d2-4b0b-93ca-6e1ecdb059ce" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/68d5c1e9-e819-4c4c-b39a-2d3ebfd543c6" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/101cf1b8-d8bf-4a16-8db5-d274d22a0f04" />
-
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/d75f120d-36d0-4431-9b1f-7595ed55a2f1" />
-
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/df71e9b7-fa9b-4460-b91e-72aa633956d7" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/157c9254-8c6b-448a-a3c2-8a8e96aba221" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/b8a1aa8f-b575-42c8-a48e-154e32d09dc2" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/f2da5289-c715-4232-b2dc-3c8fc471b47a" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/42a9f226-04e4-4e60-8047-54e7eee1e148" />
-<img width="63" height="64" alt="image" src="https://github.com/user-attachments/assets/9618b924-0454-40b4-8895-dab8a97e6ae4" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/371d927c-3aa8-43eb-b09e-9ffa6d653fea" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/150299fc-8cc2-43c5-9583-d4f086085745" />
-
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/38e7c991-ad16-4146-ab05-4256fb961c64" />
-
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/371d927c-3aa8-43eb-b09e-9ffa6d653fea" width="64" />
+  <img src="https://github.com/user-attachments/assets/150299fc-8cc2-43c5-9583-d4f086085745" width="64" />
+  <img src="https://github.com/user-attachments/assets/38e7c991-ad16-4146-ab05-4256fb961c64" width="64" />
+</p>
 
 
 
