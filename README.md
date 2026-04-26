@@ -10,7 +10,7 @@
 
 
 ## 🚀 About Me  
-**`Digital Artisan (Developer/Innovatorr/CodeWave)`**
+**`Founder @ Digital Artisan Labs (Developer/Innovatorr/CodeWave)`**
 
 ✨ Focused on **developing scalable and impactful solutions**  
 ☁️ Passionate about **ML, cloud, and automation**  
