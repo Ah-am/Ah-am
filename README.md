@@ -56,7 +56,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="Website"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://panditaman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="www.linkedin.com/in/panditaman"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/panditaman2029"><img src = "https://img.shields.io/badge/-000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
   
